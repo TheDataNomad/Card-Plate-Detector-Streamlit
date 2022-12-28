@@ -44,5 +44,3 @@ if my_upload is not None:
     st.success(f'{len(image2)} Car Plate Detected! Try Another One')
 else:
     st.info("Upload a car image with a plate   :car:")
-
-
