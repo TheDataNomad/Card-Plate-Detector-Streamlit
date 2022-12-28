@@ -14,3 +14,9 @@ pip install req.txt
 ```console
 streamlit run app.py
 ```
+
+
+
+## NN
+
+- https://www.researchgate.net/publication/327861610_License_Plate_Detection_and_Recognition_in_Unconstrained_Scenarios
